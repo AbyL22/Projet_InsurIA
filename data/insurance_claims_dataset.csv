@@ -1,0 +1,1001 @@
+age_conducteur,experience_permis,puissance_vehicule,valeur_vehicule,zone_risque,prime_estimee,description_sinistre,gravite_sinistre
+56,36,8,14639,Rurale,691.44,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+69,49,8,34539,Suburbaine,1066.26,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+46,28,6,17424,Rurale,806.78,Petite rayure sur la portière conducteur.,Faible
+32,10,4,16965,Suburbaine,849.17,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+60,39,6,32898,Rurale,1051.29,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+25,6,12,32492,Urbaine,1405.89,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+38,20,4,21146,Urbaine,909.47,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+56,38,8,14240,Urbaine,930.17,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+36,17,6,29957,Urbaine,1213.75,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+40,19,10,29845,Urbaine,1205.07,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+28,10,10,3040,Suburbaine,686.58,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+28,10,12,8827,Suburbaine,720.23,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+41,19,10,11259,Suburbaine,726.95,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+53,32,6,20371,Urbaine,910.99,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+57,39,6,33471,Rurale,1018.97,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+41,20,10,17849,Suburbaine,847.15,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+20,1,6,19232,Urbaine,1045.79,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+39,19,12,10804,Suburbaine,780.14,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+19,1,4,27173,Urbaine,1133.09,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+41,19,12,25101,Urbaine,1121.5,Petite rayure sur la portière conducteur.,Faible
+61,42,12,31584,Rurale,998.65,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+47,26,6,33327,Urbaine,1226.04,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+55,36,4,22582,Urbaine,856.03,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+19,1,6,8374,Rurale,616.05,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+38,17,8,24174,Suburbaine,934.06,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+50,30,6,26567,Urbaine,1170.7,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+29,10,6,5524,Urbaine,738.05,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+39,21,6,12277,Urbaine,812.83,Petite rayure sur la portière conducteur.,Faible
+61,39,4,34600,Suburbaine,1168.19,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+42,21,6,21863,Urbaine,950.94,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+66,47,4,12885,Urbaine,762.87,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+44,25,10,29891,Rurale,1069.81,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+59,39,8,24538,Suburbaine,980.96,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+45,25,4,3778,Urbaine,659.18,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+33,11,10,32165,Suburbaine,1238.92,Petite rayure sur la portière conducteur.,Faible
+32,10,4,29161,Suburbaine,1068.66,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+64,46,4,4492,Urbaine,489.1,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+68,50,8,33462,Urbaine,1155.24,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+61,39,12,20044,Rurale,852.74,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+69,47,12,20732,Urbaine,1011.31,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+20,0,4,16615,Suburbaine,770.79,Petite rayure sur la portière conducteur.,Faible
+54,34,6,28875,Urbaine,1230.08,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+68,50,10,15132,Urbaine,942.46,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+24,4,6,13178,Urbaine,885.67,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+38,18,6,10851,Urbaine,784.62,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+26,4,4,19288,Urbaine,933.15,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+56,35,4,10156,Urbaine,653.52,Petite rayure sur la portière conducteur.,Faible
+35,16,4,5044,Rurale,494.75,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+21,0,4,10368,Rurale,638.25,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,21,12,22900,Suburbaine,966.91,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+31,11,4,33600,Rurale,1086.71,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+67,46,12,16635,Urbaine,920.94,Petite rayure sur la portière conducteur.,Faible
+26,8,12,28634,Rurale,1005.29,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+43,23,4,12168,Urbaine,724.34,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+19,1,8,23961,Rurale,940.54,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+37,18,10,20111,Rurale,972.6,Petite rayure sur la portière conducteur.,Faible
+45,25,6,30103,Suburbaine,1104.89,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+64,45,12,14328,Rurale,671.79,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+24,4,10,16319,Suburbaine,927.68,Petite rayure sur la portière conducteur.,Faible
+61,39,8,26852,Urbaine,1007.67,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+25,4,6,3342,Urbaine,710.97,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+64,42,6,4447,Suburbaine,502.38,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+52,33,12,29955,Urbaine,1220.42,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+31,10,4,9581,Suburbaine,730.91,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+34,14,8,14851,Rurale,684.66,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+53,32,12,9317,Urbaine,740.48,Petite rayure sur la portière conducteur.,Faible
+67,49,8,34278,Suburbaine,1117.38,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+57,36,4,19910,Rurale,796.12,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+21,3,4,13088,Rurale,603.79,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+19,0,12,15946,Rurale,719.31,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+23,5,4,29649,Suburbaine,1059.42,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+59,40,10,32491,Rurale,1109.41,Petite rayure sur la portière conducteur.,Faible
+21,0,6,26132,Suburbaine,1105.65,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+46,26,12,19789,Urbaine,1010.62,Petite rayure sur la portière conducteur.,Faible
+35,14,8,17567,Urbaine,930.77,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,21,10,17868,Suburbaine,954.06,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+61,41,12,27370,Urbaine,1061.91,Petite rayure sur la portière conducteur.,Faible
+51,31,4,12765,Suburbaine,668.87,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+27,9,4,33483,Suburbaine,1160.18,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+53,34,4,32176,Urbaine,1169.98,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+31,12,4,23124,Suburbaine,909.99,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+48,26,8,15466,Suburbaine,810.04,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+65,46,10,31803,Urbaine,1081.64,Petite rayure sur la portière conducteur.,Faible
+32,11,6,21230,Urbaine,967.69,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+25,6,8,20862,Urbaine,1059.92,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+31,9,8,13587,Urbaine,830.63,Petite rayure sur la portière conducteur.,Faible
+40,21,6,34259,Rurale,1098.13,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+57,36,6,3771,Urbaine,623.76,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+38,20,4,24909,Suburbaine,940.05,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+33,11,8,33795,Urbaine,1288.42,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+62,44,12,19300,Urbaine,943.86,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+35,17,6,11770,Rurale,645.07,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+64,46,6,14093,Suburbaine,749.37,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+41,21,10,16803,Urbaine,961.91,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,23,12,3193,Urbaine,678.53,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+42,24,12,5007,Urbaine,757.35,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+62,40,6,20569,Urbaine,963.11,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+58,37,4,21778,Suburbaine,752.06,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+46,25,10,14190,Urbaine,949.75,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+32,13,12,33056,Urbaine,1310.31,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+62,40,6,12984,Urbaine,796.95,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+18,0,12,12302,Rurale,849.9,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+42,24,10,23389,Rurale,865.2,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+24,5,10,10429,Urbaine,825.11,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+26,5,8,5261,Suburbaine,633.79,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+41,21,6,23120,Urbaine,981.21,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+18,0,10,31369,Urbaine,1378.13,Petite rayure sur la portière conducteur.,Faible
+61,43,8,29512,Suburbaine,1020.4,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+25,4,8,9716,Rurale,636.54,Petite rayure sur la portière conducteur.,Faible
+41,19,12,24259,Rurale,993.4,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+28,8,12,31933,Suburbaine,1177.55,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+68,50,8,11921,Urbaine,752.64,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+34,12,12,7378,Suburbaine,750.43,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+25,4,10,10815,Urbaine,849.66,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+52,32,4,16778,Suburbaine,761.89,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+52,30,10,22835,Urbaine,1026.23,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+50,28,8,32033,Suburbaine,1059.94,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+22,0,8,27000,Urbaine,1182.08,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+59,39,10,15728,Urbaine,984.31,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+56,36,12,13332,Rurale,735.56,Petite rayure sur la portière conducteur.,Faible
+58,39,12,12836,Urbaine,881.98,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+45,24,8,5800,Suburbaine,655.64,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+24,6,6,32538,Urbaine,1179.29,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+26,4,12,33119,Urbaine,1425.51,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+25,6,10,11333,Urbaine,886.78,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+29,11,12,8410,Urbaine,921.79,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+51,32,10,20839,Rurale,828.13,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+50,30,8,26276,Urbaine,1186.42,Petite rayure sur la portière conducteur.,Faible
+65,43,12,33547,Rurale,1159.7,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+40,22,10,33519,Suburbaine,1243.03,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+41,23,8,8808,Urbaine,775.86,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+54,36,6,9796,Suburbaine,640.49,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+52,34,10,24180,Suburbaine,1064.63,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+61,43,6,24477,Suburbaine,939.56,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+57,38,6,13288,Urbaine,693.41,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+39,17,4,20709,Urbaine,890.32,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+44,24,12,24360,Rurale,969.91,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+52,32,10,28789,Rurale,1037.28,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+18,0,6,20543,Rurale,862.03,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+52,32,4,7650,Urbaine,719.95,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+54,35,8,32075,Suburbaine,1030.94,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,43,10,7987,Urbaine,738.92,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+31,9,6,18200,Urbaine,851.1,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+20,2,12,7697,Urbaine,881.93,Petite rayure sur la portière conducteur.,Faible
+18,0,4,33502,Suburbaine,1164.32,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+22,2,6,19724,Urbaine,1011.46,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+43,22,12,6828,Urbaine,737.37,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+31,9,6,21352,Rurale,919.01,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,38,10,20087,Urbaine,1041.83,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+44,26,10,15605,Urbaine,953.28,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+26,4,10,34337,Urbaine,1328.26,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+32,10,4,8482,Rurale,594.63,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+32,12,10,30005,Suburbaine,1125.76,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+43,25,12,25760,Urbaine,1201.98,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+59,38,6,21184,Rurale,878.15,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+30,11,8,8463,Rurale,682.79,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+68,49,12,16860,Urbaine,894.72,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,27,12,7912,Suburbaine,733.31,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+56,36,10,7648,Suburbaine,601.3,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+66,47,4,3855,Suburbaine,508.72,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+69,51,6,29388,Urbaine,1112.29,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,27,4,5866,Rurale,385.83,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+21,0,6,14834,Suburbaine,761.59,Petite rayure sur la portière conducteur.,Faible
+47,25,6,19294,Urbaine,917.72,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+54,33,4,19566,Urbaine,878.28,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,18,12,6112,Urbaine,711.77,Petite rayure sur la portière conducteur.,Faible
+56,34,6,25054,Urbaine,1048.53,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+62,40,4,7492,Suburbaine,573.41,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+32,11,6,25207,Urbaine,1070.43,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+60,39,8,18114,Urbaine,874.49,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+46,24,12,4517,Suburbaine,705.78,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+53,34,10,19018,Urbaine,1057.13,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+30,10,6,24386,Rurale,893.54,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,29,8,20740,Urbaine,956.19,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+24,4,10,29750,Urbaine,1271.56,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+68,47,10,23013,Urbaine,1006.36,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+39,18,6,23012,Urbaine,1015.27,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+45,26,4,31672,Urbaine,1190.42,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+19,0,6,14431,Suburbaine,720.15,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+59,39,8,31267,Rurale,1093.26,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+62,40,10,11210,Urbaine,803.83,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+23,2,6,14595,Suburbaine,790.33,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+45,25,4,15871,Suburbaine,757.96,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+45,26,6,15743,Rurale,712.98,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+61,42,12,30580,Urbaine,1133.04,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+61,41,4,25516,Urbaine,1073.07,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+37,16,8,12324,Urbaine,844.55,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+47,28,10,14531,Suburbaine,843.77,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+28,6,6,9588,Rurale,673.34,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+45,26,4,6311,Urbaine,595.16,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,24,12,25432,Urbaine,1178.31,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,38,4,30948,Rurale,953.58,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+50,29,12,34321,Rurale,1208.76,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+18,0,8,25630,Rurale,890.24,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+44,23,10,3987,Suburbaine,611.79,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+69,48,8,6321,Urbaine,628.28,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+30,9,6,18812,Suburbaine,902.85,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+58,37,4,7615,Suburbaine,594.8,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+20,0,12,18512,Urbaine,1024.86,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+56,34,12,16146,Suburbaine,830.31,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+23,4,4,27749,Suburbaine,1038.45,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+25,7,4,16654,Urbaine,848.25,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+44,23,6,23125,Suburbaine,981.6,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+26,7,8,6052,Suburbaine,645.58,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+54,36,12,25958,Rurale,845.81,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+50,30,6,3726,Urbaine,595.78,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+68,46,8,6760,Urbaine,617.27,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+59,41,6,25190,Suburbaine,869.24,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+61,41,12,4875,Urbaine,643.63,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+41,23,4,26377,Suburbaine,986.01,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+32,10,4,16969,Suburbaine,876.81,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,27,8,7033,Urbaine,728.32,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+49,30,10,8443,Suburbaine,665.53,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+41,20,8,20373,Suburbaine,943.26,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,40,10,6744,Urbaine,695.93,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+69,51,6,30262,Rurale,922.51,Petite rayure sur la portière conducteur.,Faible
+66,46,6,27995,Rurale,860.18,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+66,44,12,19977,Suburbaine,834.95,Petite rayure sur la portière conducteur.,Faible
+69,51,10,34204,Suburbaine,1151.58,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+29,7,12,4774,Urbaine,775.38,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+56,38,4,13651,Rurale,616.19,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,10,3935,Suburbaine,644.9,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+20,0,8,16395,Suburbaine,835.61,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+66,48,4,32808,Rurale,1014.57,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+54,32,4,6808,Urbaine,572.3,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+66,47,8,19715,Rurale,821.1,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+34,16,4,14641,Urbaine,784.71,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+66,46,10,27306,Urbaine,1076.5,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+19,0,12,22086,Urbaine,1060.38,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+19,1,4,17376,Rurale,744.45,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+45,26,10,31582,Rurale,1140.41,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,20,6,8889,Suburbaine,688.56,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+54,35,10,8054,Suburbaine,727.0,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+49,30,12,6868,Suburbaine,720.47,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+50,30,10,23584,Rurale,866.5,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+18,0,8,19585,Urbaine,1009.16,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+36,16,12,21881,Urbaine,1056.61,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+19,1,6,4842,Urbaine,765.37,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+61,41,8,13058,Suburbaine,674.32,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,23,10,29572,Suburbaine,1175.12,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+49,28,12,32961,Urbaine,1335.87,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+23,3,6,12101,Urbaine,927.5,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,29,8,15497,Rurale,711.46,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+21,3,6,7658,Urbaine,786.78,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+28,7,10,14381,Suburbaine,970.7,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+34,12,6,34432,Rurale,1079.76,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+55,37,4,10544,Urbaine,634.13,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+41,23,8,10718,Urbaine,708.36,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+22,0,6,16851,Suburbaine,893.66,Petite rayure sur la portière conducteur.,Faible
+69,49,10,20154,Rurale,720.92,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+51,32,10,22539,Suburbaine,955.16,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+23,2,6,30077,Rurale,1067.41,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+39,20,10,30290,Urbaine,1237.06,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+28,6,12,32300,Suburbaine,1266.27,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+65,47,12,14777,Suburbaine,831.65,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+33,15,12,4628,Rurale,670.5,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+50,29,4,33373,Urbaine,1129.84,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+26,8,6,3386,Rurale,471.87,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+23,5,4,9031,Suburbaine,630.99,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+33,12,10,30997,Urbaine,1295.45,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+46,25,4,9439,Urbaine,751.8,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+20,0,10,25785,Rurale,1048.26,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+37,19,10,16392,Urbaine,1013.01,Petite rayure sur la portière conducteur.,Faible
+53,35,8,23392,Urbaine,972.94,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+36,14,12,31669,Urbaine,1374.74,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+43,23,10,31939,Rurale,1178.94,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+20,0,8,21850,Suburbaine,1028.78,Petite rayure sur la portière conducteur.,Faible
+36,16,12,5282,Suburbaine,777.73,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+37,15,10,4856,Urbaine,640.29,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,31,10,18670,Suburbaine,874.18,Petite rayure sur la portière conducteur.,Faible
+24,2,4,27364,Suburbaine,997.51,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+69,47,4,4998,Rurale,458.03,Petite rayure sur la portière conducteur.,Faible
+58,38,12,34705,Rurale,1105.59,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+50,31,10,8476,Urbaine,807.39,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+57,39,6,12428,Suburbaine,768.09,Petite rayure sur la portière conducteur.,Faible
+56,36,4,7669,Urbaine,686.14,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+35,16,12,15336,Suburbaine,905.91,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+57,38,10,12342,Urbaine,783.45,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+18,0,10,23702,Urbaine,1095.7,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+28,10,6,10064,Urbaine,847.76,Petite rayure sur la portière conducteur.,Faible
+45,26,12,10446,Suburbaine,812.89,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,22,10,20815,Urbaine,1030.35,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+67,46,4,8624,Suburbaine,552.58,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,22,6,10461,Urbaine,667.93,Petite rayure sur la portière conducteur.,Faible
+48,26,12,4819,Urbaine,676.84,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+47,27,6,13516,Suburbaine,836.89,Petite rayure sur la portière conducteur.,Faible
+59,40,4,16749,Urbaine,762.96,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+52,33,12,20514,Urbaine,1045.75,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+24,4,6,33353,Suburbaine,1234.43,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+33,14,8,25947,Urbaine,1060.19,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+43,22,4,5658,Urbaine,646.4,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+65,47,4,6500,Urbaine,656.9,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+69,48,4,27950,Rurale,881.62,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+66,47,8,5120,Suburbaine,708.82,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,8,7020,Suburbaine,613.97,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+18,0,10,13213,Suburbaine,906.2,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+65,47,6,31281,Urbaine,1126.98,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+29,9,10,32725,Urbaine,1335.1,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+22,2,6,6259,Suburbaine,668.25,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+54,32,8,31011,Urbaine,1145.56,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,31,8,13081,Urbaine,845.07,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+26,4,10,4823,Urbaine,651.56,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+58,38,12,20858,Urbaine,1061.32,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+52,32,10,21626,Rurale,893.43,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+36,18,6,16467,Urbaine,929.27,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+65,44,10,22627,Suburbaine,1000.45,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+33,14,4,9990,Urbaine,762.18,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+20,0,6,24544,Rurale,948.28,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+37,17,6,6134,Urbaine,644.63,Petite rayure sur la portière conducteur.,Faible
+41,20,12,21454,Urbaine,1041.47,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+50,29,8,19743,Suburbaine,949.2,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+41,19,6,18434,Suburbaine,923.5,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+69,47,8,34279,Urbaine,1205.67,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+28,9,10,18007,Urbaine,1006.44,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+66,47,4,13233,Urbaine,697.43,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+25,7,12,19378,Urbaine,1126.2,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+53,31,8,4141,Urbaine,680.09,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+55,35,6,21019,Urbaine,1047.44,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+57,35,8,33075,Urbaine,1173.58,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+37,17,6,23384,Urbaine,1014.78,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+52,31,8,13135,Suburbaine,765.27,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+65,43,6,15966,Rurale,711.64,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+42,21,10,6361,Suburbaine,657.44,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+52,33,6,25967,Urbaine,1011.69,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,23,6,10835,Urbaine,816.77,Petite rayure sur la portière conducteur.,Faible
+46,28,4,14172,Rurale,687.5,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+35,13,6,19390,Urbaine,911.99,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+63,42,4,6267,Urbaine,677.11,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+35,15,12,9564,Suburbaine,834.79,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,4,29167,Suburbaine,1087.05,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+52,33,10,24312,Suburbaine,1011.22,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+33,13,4,30840,Urbaine,1188.5,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,37,12,21990,Urbaine,1010.71,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+53,32,10,14411,Rurale,733.72,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+50,28,8,8906,Urbaine,640.5,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+21,0,8,19028,Suburbaine,977.38,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+50,32,4,22657,Suburbaine,810.07,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+31,12,4,10611,Suburbaine,760.39,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+38,16,12,20297,Urbaine,1043.43,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+65,44,12,5011,Urbaine,689.64,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+37,17,6,20826,Suburbaine,876.13,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+25,4,12,24930,Rurale,1014.2,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+24,5,6,14246,Rurale,797.85,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+20,0,10,16790,Urbaine,871.41,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+34,16,4,14738,Urbaine,900.61,Petite rayure sur la portière conducteur.,Faible
+50,31,10,31797,Rurale,1102.84,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+65,45,12,17730,Suburbaine,819.25,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+29,11,10,32488,Rurale,1087.99,Petite rayure sur la portière conducteur.,Faible
+68,49,10,14120,Urbaine,930.22,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+39,19,10,21213,Suburbaine,923.98,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+39,21,12,11767,Suburbaine,754.67,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+63,45,10,25852,Suburbaine,1072.91,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+47,28,6,16703,Urbaine,896.99,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+55,33,12,3929,Urbaine,651.68,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+55,37,10,14951,Suburbaine,824.85,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+62,44,12,23083,Urbaine,1016.37,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+68,48,8,29039,Urbaine,1169.82,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+25,4,6,30851,Rurale,1110.09,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+44,25,10,18845,Urbaine,1015.5,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+44,25,8,32504,Rurale,1100.16,Petite rayure sur la portière conducteur.,Faible
+51,29,8,20438,Urbaine,1064.82,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+38,16,12,18747,Suburbaine,953.92,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+47,28,8,8744,Rurale,541.79,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+50,28,6,21284,Urbaine,988.15,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+45,25,6,12649,Urbaine,907.28,Petite rayure sur la portière conducteur.,Faible
+64,45,4,9980,Urbaine,630.86,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+50,28,6,10069,Urbaine,723.31,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+22,3,8,12591,Suburbaine,823.64,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+65,44,6,22799,Rurale,813.28,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+36,18,12,3442,Urbaine,677.72,Petite rayure sur la portière conducteur.,Faible
+21,2,4,31226,Urbaine,1248.61,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+52,34,8,25602,Urbaine,1194.04,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+66,44,4,7652,Suburbaine,565.85,Petite rayure sur la portière conducteur.,Faible
+34,16,8,27323,Urbaine,1103.26,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+61,42,12,27217,Suburbaine,999.89,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+45,24,4,12370,Suburbaine,705.3,Petite rayure sur la portière conducteur.,Faible
+47,25,10,10597,Suburbaine,798.13,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+46,27,8,17325,Urbaine,948.26,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+63,41,10,7458,Suburbaine,648.04,Petite rayure sur la portière conducteur.,Faible
+23,3,4,9591,Urbaine,726.36,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+52,34,10,19346,Urbaine,928.31,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+58,38,10,28833,Rurale,1052.4,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+54,35,4,14826,Suburbaine,769.21,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+41,20,12,29417,Urbaine,1159.05,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+46,24,10,21693,Urbaine,1121.35,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+66,48,10,17138,Urbaine,939.46,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+63,41,12,25652,Urbaine,1187.02,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+48,29,10,20294,Urbaine,942.77,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+52,30,10,23724,Urbaine,1002.19,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+50,32,10,32213,Urbaine,1236.81,Petite rayure sur la portière conducteur.,Faible
+69,50,6,23393,Suburbaine,920.0,Petite rayure sur la portière conducteur.,Faible
+38,16,12,26012,Suburbaine,1189.06,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+49,28,10,5169,Suburbaine,665.68,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+40,21,12,21556,Urbaine,1068.99,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+50,31,8,25052,Rurale,869.72,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+20,0,8,9313,Rurale,727.76,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+35,15,10,11315,Rurale,658.06,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+42,24,12,11036,Rurale,798.14,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+59,39,12,34778,Rurale,1143.34,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+48,26,12,30734,Suburbaine,1253.21,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+20,0,6,26173,Urbaine,1157.41,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+57,37,8,33403,Suburbaine,1142.21,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+63,44,12,3785,Suburbaine,578.73,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+41,19,12,9139,Suburbaine,738.73,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+67,45,6,9344,Suburbaine,639.3,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+49,29,6,21800,Urbaine,981.86,Petite rayure sur la portière conducteur.,Faible
+64,44,12,28372,Urbaine,1139.75,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+39,18,4,31748,Rurale,1008.68,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,22,12,23538,Suburbaine,1049.69,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,12,34150,Suburbaine,1193.56,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+44,24,6,17973,Urbaine,934.37,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+59,40,6,8619,Urbaine,645.39,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,12,4936,Rurale,583.05,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+43,25,12,29732,Suburbaine,1079.27,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+34,15,12,6807,Suburbaine,633.45,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+57,36,6,10151,Urbaine,661.25,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+50,29,12,12493,Suburbaine,769.41,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+26,6,12,15355,Urbaine,1082.76,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+60,40,10,30716,Suburbaine,1093.03,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+65,44,4,6236,Urbaine,613.61,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,36,8,18848,Urbaine,954.98,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+46,28,4,5352,Suburbaine,556.59,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+59,39,10,4932,Rurale,526.77,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,21,8,13913,Urbaine,802.5,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+52,32,12,11556,Rurale,779.67,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+67,48,10,24300,Urbaine,1142.36,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,24,12,8498,Urbaine,731.83,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+41,22,6,13582,Urbaine,778.44,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+30,11,10,20330,Urbaine,1032.61,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+24,2,6,34618,Suburbaine,1161.13,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+53,35,10,16865,Urbaine,956.6,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+62,44,10,12569,Urbaine,790.97,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+37,19,6,20823,Rurale,940.71,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+18,0,8,30756,Urbaine,1308.65,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+25,7,4,27114,Suburbaine,1037.91,Petite rayure sur la portière conducteur.,Faible
+63,41,12,7857,Urbaine,812.49,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+33,13,10,3340,Suburbaine,681.1,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+31,12,12,14181,Urbaine,923.42,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+29,11,6,19766,Urbaine,936.51,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+68,48,12,32675,Urbaine,1251.41,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+40,20,6,29132,Urbaine,1185.72,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+32,13,12,11491,Urbaine,902.77,Petite rayure sur la portière conducteur.,Faible
+45,23,4,3138,Suburbaine,428.91,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+51,30,4,3358,Rurale,385.02,Petite rayure sur la portière conducteur.,Faible
+19,0,4,24315,Rurale,904.6,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,29,4,12714,Suburbaine,687.5,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,21,4,22840,Urbaine,1085.43,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+39,18,4,4627,Urbaine,555.24,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+68,48,6,33654,Urbaine,1202.36,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+42,20,10,28879,Urbaine,1268.04,Petite rayure sur la portière conducteur.,Faible
+39,18,12,18996,Suburbaine,1070.49,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+39,19,4,26010,Suburbaine,956.98,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+66,46,6,8004,Urbaine,692.65,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+69,51,6,28710,Urbaine,1104.69,Petite rayure sur la portière conducteur.,Faible
+59,37,6,34585,Rurale,1073.47,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+23,5,10,29762,Suburbaine,1169.3,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+32,13,12,16283,Urbaine,1013.46,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+60,42,10,34154,Rurale,986.47,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+54,36,8,9652,Rurale,639.14,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+50,29,6,25800,Urbaine,1062.31,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+25,5,8,22554,Urbaine,1059.96,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+61,39,4,23219,Suburbaine,979.72,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+61,43,4,27401,Rurale,852.27,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+22,0,10,5151,Rurale,588.87,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,38,12,12429,Urbaine,966.16,Petite rayure sur la portière conducteur.,Faible
+21,2,8,17072,Urbaine,927.84,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+23,5,12,14927,Suburbaine,880.03,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+62,41,10,9905,Suburbaine,691.75,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,29,4,22218,Urbaine,998.4,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+69,50,12,15452,Rurale,761.43,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+47,29,12,28574,Suburbaine,1067.85,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,42,4,19212,Rurale,689.63,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+52,33,8,21951,Rurale,824.65,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+57,38,4,4307,Suburbaine,503.28,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+69,51,12,17852,Urbaine,970.33,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+33,14,8,28232,Suburbaine,1114.55,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+30,8,8,5660,Urbaine,634.4,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+67,48,4,13403,Suburbaine,722.26,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+59,37,12,29485,Urbaine,1214.33,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+47,29,10,23114,Suburbaine,1062.51,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+36,16,12,13238,Urbaine,944.97,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+34,15,6,9207,Urbaine,811.21,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+36,16,10,22546,Urbaine,1102.25,Petite rayure sur la portière conducteur.,Faible
+45,23,8,4140,Urbaine,730.11,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+43,24,10,33561,Suburbaine,1236.33,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+54,33,8,27842,Suburbaine,1038.94,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+43,23,8,29421,Suburbaine,1211.04,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+40,21,10,4708,Urbaine,758.61,Petite rayure sur la portière conducteur.,Faible
+26,6,8,6630,Urbaine,779.29,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+29,10,8,22595,Urbaine,1000.08,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+18,0,6,13485,Urbaine,809.28,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+18,0,12,31308,Rurale,1184.8,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+64,43,12,15021,Urbaine,909.7,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+51,30,6,25922,Urbaine,1025.73,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,27,10,29086,Urbaine,1190.77,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+65,46,4,19859,Urbaine,956.61,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+42,22,4,10684,Suburbaine,699.45,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+57,35,4,28552,Suburbaine,934.99,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+62,42,6,4207,Urbaine,594.56,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+18,0,6,16331,Urbaine,890.37,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+33,12,8,4960,Urbaine,683.82,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+56,38,4,3557,Urbaine,548.46,Petite rayure sur la portière conducteur.,Faible
+22,1,10,32689,Urbaine,1285.9,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+39,17,10,18883,Rurale,786.9,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+46,28,4,16893,Suburbaine,774.48,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+20,0,4,3882,Suburbaine,544.61,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+29,10,4,29770,Urbaine,1000.93,Petite rayure sur la portière conducteur.,Faible
+43,25,6,7761,Urbaine,811.87,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+33,11,6,30243,Suburbaine,1158.3,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+68,49,6,8867,Suburbaine,587.52,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+54,33,12,26347,Suburbaine,1074.88,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+39,20,10,32535,Urbaine,1214.12,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+46,26,10,15869,Suburbaine,935.17,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+31,12,8,10166,Urbaine,906.18,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+45,26,6,15982,Rurale,727.47,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+22,2,12,10929,Suburbaine,880.76,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+64,42,12,8347,Suburbaine,702.7,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+66,44,10,10269,Urbaine,706.54,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+47,28,6,29186,Suburbaine,1034.13,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+63,43,8,31064,Urbaine,1171.88,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+69,49,6,27509,Urbaine,1029.45,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+22,1,4,16527,Urbaine,885.61,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+29,7,6,5454,Suburbaine,611.51,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+33,15,4,23878,Urbaine,1017.52,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+43,21,4,21330,Urbaine,953.21,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+43,21,8,32386,Rurale,1028.69,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+65,44,10,15991,Urbaine,853.97,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+38,20,6,5808,Suburbaine,540.93,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,35,4,9642,Urbaine,739.73,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+53,35,6,6825,Urbaine,565.22,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+50,31,10,6536,Suburbaine,713.4,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+47,29,10,33386,Urbaine,1343.04,Petite rayure sur la portière conducteur.,Faible
+54,33,12,25452,Urbaine,1115.93,Petite rayure sur la portière conducteur.,Faible
+40,18,10,18309,Suburbaine,781.02,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+27,9,8,6802,Suburbaine,658.97,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+22,4,4,31753,Suburbaine,1122.85,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+53,33,12,24083,Urbaine,1055.13,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+51,29,8,21354,Urbaine,969.32,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+69,50,6,25190,Suburbaine,1007.31,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+48,27,4,9142,Suburbaine,655.09,Petite rayure sur la portière conducteur.,Faible
+27,8,10,31398,Rurale,1077.73,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+36,14,4,22203,Rurale,752.18,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,31,6,12094,Rurale,617.53,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+18,0,12,3364,Urbaine,750.61,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+22,0,12,23642,Urbaine,1183.65,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+62,44,12,22503,Suburbaine,954.29,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+21,3,10,30134,Urbaine,1286.25,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+33,15,8,18688,Urbaine,1074.52,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+41,20,8,4863,Rurale,576.04,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+33,12,4,19499,Rurale,781.58,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+19,0,10,10084,Urbaine,854.52,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+66,47,12,11016,Urbaine,800.49,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+45,23,12,5384,Urbaine,806.71,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+49,27,6,32552,Rurale,1011.67,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+44,22,6,18072,Rurale,765.7,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+37,17,12,6935,Urbaine,797.26,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+41,20,12,16127,Urbaine,945.45,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+29,9,10,17482,Rurale,773.02,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+67,45,8,10742,Urbaine,766.99,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+52,33,6,19165,Suburbaine,841.25,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+50,32,8,24826,Rurale,941.53,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+50,29,10,5490,Urbaine,683.12,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+68,47,12,26364,Suburbaine,1107.32,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+60,40,8,16324,Urbaine,832.64,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+54,33,12,28518,Urbaine,1277.96,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+29,7,12,27045,Rurale,975.52,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+20,0,4,21108,Urbaine,1013.9,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+18,0,8,29910,Rurale,1105.97,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+50,28,8,27566,Suburbaine,1006.54,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+57,38,12,22151,Urbaine,1080.24,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+27,7,10,4137,Urbaine,792.72,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+60,41,4,30103,Urbaine,981.22,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+61,43,12,23501,Urbaine,1103.16,Petite rayure sur la portière conducteur.,Faible
+46,27,6,6420,Urbaine,551.74,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+30,12,6,8845,Urbaine,708.62,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+29,11,4,24162,Urbaine,1116.7,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+48,29,10,6906,Suburbaine,638.03,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+63,43,12,23021,Suburbaine,930.73,Petite rayure sur la portière conducteur.,Faible
+19,0,8,22337,Suburbaine,993.84,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+68,46,4,25313,Urbaine,1083.66,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+67,49,10,29943,Urbaine,1073.28,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+52,34,8,15413,Suburbaine,746.69,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+40,20,6,3276,Urbaine,700.39,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+34,13,6,21383,Urbaine,1092.55,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+43,24,8,20611,Rurale,841.05,Petite rayure sur la portière conducteur.,Faible
+25,7,4,9337,Suburbaine,609.79,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+46,24,6,14944,Suburbaine,876.67,Petite rayure sur la portière conducteur.,Faible
+43,23,12,23119,Urbaine,1186.1,Petite rayure sur la portière conducteur.,Faible
+27,8,8,18906,Suburbaine,953.07,Petite rayure sur la portière conducteur.,Faible
+43,23,8,20079,Suburbaine,869.96,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+51,32,6,28885,Suburbaine,1038.25,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+68,49,4,23536,Suburbaine,861.7,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+58,40,12,27285,Rurale,1026.24,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+24,4,4,26854,Suburbaine,1096.63,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+21,1,10,30810,Urbaine,1318.17,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+67,45,10,15306,Suburbaine,743.25,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+62,40,6,26921,Suburbaine,1048.24,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+28,10,6,13503,Suburbaine,794.72,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+46,28,6,22225,Urbaine,1026.85,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+53,32,10,7208,Urbaine,811.49,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+42,20,4,31135,Rurale,943.12,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+38,19,4,14590,Suburbaine,749.01,Petite rayure sur la portière conducteur.,Faible
+53,33,6,28117,Rurale,919.77,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+27,9,12,13886,Suburbaine,800.33,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+54,34,4,15866,Suburbaine,761.66,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+26,6,10,4088,Suburbaine,780.34,Petite rayure sur la portière conducteur.,Faible
+41,20,8,6363,Rurale,473.26,Petite rayure sur la portière conducteur.,Faible
+52,30,8,3024,Suburbaine,549.87,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+66,48,8,12764,Suburbaine,750.31,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+52,32,12,25528,Urbaine,1142.71,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+65,47,6,30534,Urbaine,1115.02,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+53,34,10,25052,Suburbaine,955.08,Petite rayure sur la portière conducteur.,Faible
+35,14,12,23620,Urbaine,1144.04,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+66,47,10,12959,Urbaine,789.34,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+56,38,10,15935,Urbaine,797.2,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+49,31,6,11068,Urbaine,823.09,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+41,19,8,21619,Urbaine,1068.3,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,20,6,10295,Urbaine,768.48,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+49,29,12,11392,Rurale,721.29,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+54,35,12,14390,Suburbaine,888.52,Petite rayure sur la portière conducteur.,Faible
+29,8,12,11448,Urbaine,912.18,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+66,46,6,23131,Urbaine,1015.82,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+30,8,10,32218,Suburbaine,1194.49,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+40,21,10,13433,Urbaine,954.26,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+42,23,4,18038,Rurale,752.8,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+52,30,12,22559,Suburbaine,1011.88,Petite rayure sur la portière conducteur.,Faible
+58,37,10,31182,Suburbaine,1069.14,Petite rayure sur la portière conducteur.,Faible
+47,25,4,14528,Urbaine,820.91,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+34,13,10,24281,Suburbaine,1001.02,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+66,44,12,24421,Urbaine,1054.51,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+37,15,8,18743,Rurale,780.09,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+65,47,12,26811,Suburbaine,1007.91,Petite rayure sur la portière conducteur.,Faible
+42,23,6,11605,Urbaine,894.34,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+39,17,10,5014,Urbaine,788.85,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+30,8,10,4381,Urbaine,823.64,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+36,16,6,4098,Suburbaine,513.82,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+66,47,6,22810,Urbaine,967.76,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+53,33,8,23039,Suburbaine,885.1,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+29,10,10,27322,Urbaine,1153.66,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,38,10,12101,Suburbaine,705.11,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+36,14,8,3187,Rurale,573.72,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+29,7,4,31620,Suburbaine,1089.59,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+26,8,8,14948,Suburbaine,895.38,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+24,4,12,13207,Urbaine,976.35,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+45,24,10,24793,Urbaine,1221.04,Petite rayure sur la portière conducteur.,Faible
+31,13,6,5092,Suburbaine,530.87,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+48,28,12,31220,Urbaine,1321.36,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+69,49,10,21514,Urbaine,1049.6,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+36,18,8,8242,Urbaine,714.17,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+64,42,12,11549,Urbaine,883.34,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+33,13,10,25031,Urbaine,1151.43,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+22,0,4,8185,Rurale,568.33,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+52,34,4,18271,Urbaine,830.22,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+29,7,6,8776,Suburbaine,646.56,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+42,23,10,29998,Urbaine,1318.45,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+69,48,4,15449,Suburbaine,706.01,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+38,18,8,27297,Urbaine,1179.05,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+53,32,10,26931,Rurale,943.08,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+40,18,8,10823,Rurale,617.47,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+33,13,8,18717,Urbaine,1032.44,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+56,34,4,10355,Rurale,487.62,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+62,43,10,9465,Rurale,594.54,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+59,41,12,15737,Rurale,778.44,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+56,36,4,20881,Rurale,771.19,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+31,12,4,16324,Urbaine,865.53,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+48,29,10,33903,Suburbaine,1226.85,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+22,2,10,13350,Urbaine,957.64,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+52,30,8,33622,Urbaine,1275.17,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+40,21,10,5555,Rurale,531.81,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+46,25,8,24793,Urbaine,1059.65,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+60,41,4,29918,Suburbaine,1073.1,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+28,6,6,5951,Rurale,597.75,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+35,13,12,20622,Rurale,853.8,Petite rayure sur la portière conducteur.,Faible
+64,43,4,28549,Rurale,920.55,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+29,10,10,7727,Urbaine,697.63,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+26,4,12,23349,Urbaine,1147.33,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+27,7,6,8686,Urbaine,854.61,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+61,43,6,28626,Urbaine,1043.13,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+34,16,8,6701,Urbaine,694.3,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+55,37,12,5780,Urbaine,773.8,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+24,5,8,26782,Suburbaine,1005.5,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+63,42,4,20972,Suburbaine,796.8,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+30,8,12,31454,Urbaine,1328.9,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+57,37,4,5368,Suburbaine,496.65,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+59,39,8,34632,Urbaine,1232.84,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+26,7,12,18592,Urbaine,1087.05,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+67,49,8,25173,Suburbaine,985.54,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+44,25,12,3436,Suburbaine,649.06,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+19,0,8,5828,Suburbaine,656.6,Petite rayure sur la portière conducteur.,Faible
+22,1,6,4556,Urbaine,705.62,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+46,24,8,26954,Rurale,960.89,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+54,32,6,16364,Suburbaine,807.17,Petite rayure sur la portière conducteur.,Faible
+55,34,8,31434,Suburbaine,1088.83,Petite rayure sur la portière conducteur.,Faible
+36,15,12,26864,Suburbaine,1111.15,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+25,4,12,28880,Rurale,1058.1,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+65,46,12,18061,Suburbaine,884.47,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+62,41,10,33750,Suburbaine,1135.45,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+18,0,4,13576,Rurale,639.82,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+39,21,12,19566,Suburbaine,981.25,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+69,48,6,10190,Urbaine,716.44,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+34,16,12,26071,Suburbaine,1147.56,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+24,5,10,8565,Urbaine,801.74,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+42,24,6,26625,Urbaine,1108.9,Petite rayure sur la portière conducteur.,Faible
+62,43,10,18369,Suburbaine,895.92,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+21,1,6,27035,Rurale,1010.94,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+53,34,8,24959,Rurale,871.9,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+23,4,4,4589,Urbaine,663.25,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+48,26,4,29163,Suburbaine,1040.47,Petite rayure sur la portière conducteur.,Faible
+36,15,10,28235,Urbaine,1193.06,Petite rayure sur la portière conducteur.,Faible
+61,40,4,3159,Rurale,296.86,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+56,36,10,15145,Rurale,748.92,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+44,24,10,18373,Suburbaine,1015.09,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+27,6,10,34921,Rurale,1176.42,Petite rayure sur la portière conducteur.,Faible
+43,21,4,9555,Suburbaine,603.7,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+36,15,10,19237,Suburbaine,956.41,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+56,34,4,12203,Urbaine,757.68,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+20,0,10,11244,Urbaine,944.52,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+62,44,12,17743,Suburbaine,822.97,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+30,10,10,34566,Suburbaine,1292.89,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+67,47,6,16333,Urbaine,862.18,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+45,26,10,16341,Rurale,779.71,Petite rayure sur la portière conducteur.,Faible
+37,18,8,26230,Urbaine,1137.53,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+45,26,10,21691,Suburbaine,1020.29,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+25,6,6,4228,Suburbaine,643.18,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,36,6,26610,Suburbaine,924.05,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+56,35,4,8590,Suburbaine,635.81,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+18,0,12,26303,Urbaine,1216.83,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+20,0,10,8585,Urbaine,835.34,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+30,8,4,12227,Suburbaine,723.2,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+45,27,12,31278,Suburbaine,1183.05,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+66,44,10,9046,Urbaine,808.51,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+42,20,8,15237,Suburbaine,811.55,Petite rayure sur la portière conducteur.,Faible
+50,30,10,18649,Urbaine,917.0,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+55,34,6,7945,Suburbaine,594.22,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+23,4,6,10927,Rurale,671.47,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+61,40,8,15641,Urbaine,922.28,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+62,42,4,18998,Urbaine,896.11,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,29,12,16386,Suburbaine,842.19,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+62,42,10,10016,Suburbaine,825.58,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,46,6,17027,Suburbaine,790.78,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+38,17,4,18920,Rurale,826.17,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+33,12,8,27142,Rurale,989.25,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+38,16,6,16752,Rurale,775.71,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+28,6,8,24470,Suburbaine,1070.37,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+54,32,10,28840,Urbaine,1229.71,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+53,33,12,26545,Urbaine,1207.77,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+52,31,6,21268,Urbaine,1004.97,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+36,16,6,34897,Suburbaine,1175.19,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+37,19,10,21193,Urbaine,1021.27,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+35,13,4,6167,Rurale,529.97,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+64,44,12,14989,Suburbaine,873.44,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,38,6,29917,Suburbaine,1036.2,Petite rayure sur la portière conducteur.,Faible
+66,48,12,25736,Urbaine,1165.98,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+31,12,6,30990,Urbaine,1270.43,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+32,11,12,32783,Urbaine,1275.84,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+48,29,8,28393,Urbaine,1100.01,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+18,0,6,17087,Urbaine,938.72,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+20,0,12,25440,Suburbaine,1139.18,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+33,15,4,5437,Rurale,476.51,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+40,22,8,25852,Rurale,1024.65,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+28,7,8,18275,Suburbaine,925.7,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+29,10,4,28464,Urbaine,1123.25,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+27,6,12,25335,Rurale,960.9,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+49,29,10,8276,Rurale,551.73,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+33,12,4,11859,Urbaine,795.23,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+25,7,12,10818,Suburbaine,714.73,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+55,37,4,7728,Urbaine,705.19,Petite rayure sur la portière conducteur.,Faible
+29,7,4,22008,Rurale,834.25,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+41,19,6,8738,Rurale,744.91,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+45,25,12,23616,Urbaine,1227.72,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+25,6,10,33618,Rurale,1163.29,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+45,24,6,8793,Suburbaine,645.54,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+53,33,4,7523,Rurale,554.24,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,21,4,8571,Urbaine,780.58,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+25,4,4,34331,Rurale,1014.72,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+67,45,12,19209,Urbaine,890.86,Petite rayure sur la portière conducteur.,Faible
+45,24,12,18246,Urbaine,973.82,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+45,26,6,28394,Urbaine,1147.02,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+54,34,10,13380,Rurale,734.44,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+58,37,6,28682,Rurale,1001.13,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+53,35,8,5224,Rurale,458.5,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+44,26,4,11389,Rurale,483.97,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+34,13,4,30247,Urbaine,1189.84,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+26,5,4,18927,Urbaine,895.13,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+50,29,6,25475,Urbaine,948.58,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+37,19,6,34410,Urbaine,1261.45,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+30,12,4,14684,Urbaine,883.34,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+45,24,6,13640,Urbaine,816.7,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+65,43,12,11662,Urbaine,810.35,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+46,24,12,9361,Urbaine,817.25,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+30,11,6,4948,Urbaine,660.43,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+63,43,4,32600,Urbaine,1068.6,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+52,30,6,15091,Rurale,652.09,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+23,5,6,29586,Suburbaine,1136.78,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+35,13,6,14992,Rurale,735.92,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+68,49,8,34351,Urbaine,1229.42,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+22,3,12,26478,Urbaine,1165.8,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+64,44,10,32577,Suburbaine,1139.46,Petite rayure sur la portière conducteur.,Faible
+42,20,10,9318,Urbaine,693.51,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+19,1,8,31694,Urbaine,1274.8,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+27,9,6,23180,Urbaine,1121.04,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+47,26,8,15180,Urbaine,805.89,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+67,49,8,3234,Urbaine,571.38,Petite rayure sur la portière conducteur.,Faible
+62,42,4,18372,Urbaine,869.9,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+22,2,12,32796,Suburbaine,1329.56,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+50,32,10,28504,Urbaine,1147.67,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+18,0,6,22991,Urbaine,1029.21,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+35,14,10,27427,Rurale,930.09,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,31,10,3522,Urbaine,677.61,Petite rayure sur la portière conducteur.,Faible
+64,43,12,25288,Urbaine,1209.86,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+66,45,10,31099,Rurale,1053.85,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+28,10,10,15718,Urbaine,957.25,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+38,19,8,24272,Urbaine,1095.54,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+43,24,12,12821,Urbaine,899.87,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,21,4,8832,Urbaine,661.99,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+39,21,6,15820,Suburbaine,844.56,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+44,25,10,19211,Rurale,857.51,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+66,48,6,10122,Urbaine,711.32,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+30,12,4,8842,Suburbaine,603.07,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+50,32,6,33347,Suburbaine,1197.12,Petite rayure sur la portière conducteur.,Faible
+51,29,4,4316,Urbaine,627.56,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+58,40,8,30433,Suburbaine,1060.01,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+52,30,10,16200,Urbaine,970.09,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+18,0,4,20508,Urbaine,959.28,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+38,19,6,25005,Urbaine,1025.0,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+65,46,10,24807,Urbaine,1028.15,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+23,4,8,18206,Urbaine,899.57,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+45,26,10,21971,Rurale,923.0,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+34,15,4,28599,Urbaine,1022.42,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+22,3,8,25056,Urbaine,1065.7,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+48,29,6,4378,Urbaine,527.78,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+22,1,8,22758,Suburbaine,1001.86,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+55,37,8,4519,Suburbaine,567.86,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+20,0,12,25161,Suburbaine,1101.89,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,18,8,10935,Suburbaine,681.57,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+54,34,8,9093,Rurale,535.25,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+54,34,10,27802,Urbaine,1171.26,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+27,9,6,8355,Suburbaine,650.57,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+27,9,10,24352,Rurale,998.86,Petite rayure sur la portière conducteur.,Faible
+36,18,10,12083,Rurale,675.4,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+34,15,4,8574,Rurale,572.53,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+38,17,10,23456,Urbaine,1158.28,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+31,12,12,16324,Urbaine,1023.79,Petite rayure sur la portière conducteur.,Faible
+26,5,12,5257,Urbaine,762.52,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+63,42,4,30364,Suburbaine,1029.14,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+18,0,6,27972,Urbaine,1151.41,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+68,48,6,16411,Urbaine,832.61,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+62,41,10,29654,Rurale,1002.8,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+30,9,10,18233,Urbaine,996.44,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+21,2,10,18887,Rurale,896.34,Petite rayure sur la portière conducteur.,Faible
+18,0,6,32320,Urbaine,1200.73,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+66,46,8,23808,Urbaine,963.37,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+57,39,12,22621,Urbaine,998.99,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+49,28,8,33154,Suburbaine,1080.07,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+51,32,8,23277,Urbaine,972.68,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+45,25,6,32623,Urbaine,1210.43,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+48,29,8,5005,Rurale,479.46,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+25,4,4,21400,Urbaine,1013.68,Petite rayure sur la portière conducteur.,Faible
+56,35,10,30747,Suburbaine,1129.68,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+43,21,4,13860,Suburbaine,627.77,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+51,33,12,13070,Urbaine,922.15,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+20,0,10,12388,Suburbaine,873.3,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+67,47,8,21156,Urbaine,909.43,Petite rayure sur la portière conducteur.,Faible
+29,10,12,27737,Suburbaine,1172.75,Petite rayure sur la portière conducteur.,Faible
+18,0,10,23360,Urbaine,1088.38,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+61,40,8,21135,Suburbaine,900.58,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+22,0,4,28351,Urbaine,1069.8,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+47,25,10,26814,Suburbaine,977.62,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+47,25,8,33499,Urbaine,1226.84,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+34,14,4,17609,Urbaine,887.99,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+65,44,12,26554,Urbaine,1111.2,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+64,45,12,32723,Urbaine,1197.26,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+40,21,12,25853,Rurale,997.07,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+32,12,12,19363,Urbaine,1066.72,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+54,32,6,28515,Rurale,950.06,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+38,20,10,22604,Rurale,935.21,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+31,11,10,19923,Suburbaine,927.95,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,6,17823,Urbaine,1017.05,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+28,7,8,32493,Urbaine,1205.05,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+68,49,8,20845,Suburbaine,900.28,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+56,36,12,24568,Urbaine,1168.45,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+55,35,4,11547,Urbaine,754.99,Petite rayure sur la portière conducteur.,Faible
+51,29,8,31180,Suburbaine,1106.47,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+55,33,4,14515,Rurale,613.89,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+67,49,10,3234,Suburbaine,607.48,Petite rayure sur la portière conducteur.,Faible
+51,30,4,17562,Urbaine,788.09,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+35,17,10,20932,Suburbaine,925.13,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+47,25,6,10480,Urbaine,735.72,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+32,13,6,29672,Urbaine,1231.32,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+44,22,12,7213,Rurale,655.25,Petite rayure sur la portière conducteur.,Faible
+68,47,8,13293,Urbaine,751.46,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+51,29,12,4673,Urbaine,705.94,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+69,48,10,26092,Urbaine,1053.12,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+55,34,12,32739,Rurale,1089.29,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+50,29,4,27366,Suburbaine,1031.26,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+41,20,10,5100,Suburbaine,576.41,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+32,11,6,14849,Suburbaine,878.42,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+47,28,8,32229,Urbaine,1261.99,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+59,41,10,31172,Urbaine,1259.98,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+68,48,10,23132,Urbaine,1003.49,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+34,16,4,22557,Urbaine,985.64,Petite rayure sur la portière conducteur.,Faible
+22,1,8,21199,Urbaine,978.32,Petite rayure sur la portière conducteur.,Faible
+46,27,6,6841,Rurale,508.59,Petite rayure sur la portière conducteur.,Faible
+21,0,10,13197,Urbaine,946.62,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+27,8,10,11016,Urbaine,931.12,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+34,13,4,10011,Urbaine,686.86,Petite rayure sur la portière conducteur.,Faible
+27,8,12,7493,Urbaine,807.58,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+34,15,6,34881,Rurale,1112.06,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+37,16,8,20058,Urbaine,927.37,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+41,22,10,27472,Urbaine,1197.01,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+22,2,10,11578,Suburbaine,776.36,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+51,31,6,5158,Urbaine,631.39,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+23,4,12,22045,Urbaine,1102.3,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+19,0,10,5064,Urbaine,723.81,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+30,9,6,31427,Suburbaine,1133.19,Petite rayure sur la portière conducteur.,Faible
+60,40,4,6253,Rurale,454.28,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+60,38,12,24363,Suburbaine,1003.67,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+65,46,8,27087,Urbaine,1045.32,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+28,6,10,15828,Rurale,826.54,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+68,50,6,31842,Urbaine,1223.52,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,44,4,34128,Urbaine,1171.55,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+40,21,8,28315,Urbaine,1206.11,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+33,12,6,4401,Urbaine,592.51,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+48,29,6,22643,Suburbaine,929.75,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+28,7,8,18193,Suburbaine,847.99,Petite rayure sur la portière conducteur.,Faible
+33,14,4,29853,Rurale,917.21,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+25,3,4,15096,Suburbaine,749.95,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+21,0,12,23307,Suburbaine,1138.73,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+57,35,10,7214,Urbaine,777.78,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+21,3,8,22611,Urbaine,1092.37,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+42,21,8,14023,Suburbaine,714.82,Petite rayure sur la portière conducteur.,Faible
+20,0,8,14950,Urbaine,919.19,Petite rayure sur la portière conducteur.,Faible
+49,31,4,13704,Rurale,651.17,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+20,0,10,13343,Urbaine,935.64,Petite rayure sur la portière conducteur.,Faible
+44,25,12,14867,Urbaine,847.15,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+46,28,6,5745,Urbaine,618.38,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+49,29,6,25475,Urbaine,1048.3,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+67,49,8,6866,Urbaine,700.13,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+68,50,10,14956,Suburbaine,678.31,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+36,15,4,33377,Urbaine,1197.43,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+38,19,10,8818,Suburbaine,732.51,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+22,2,10,21606,Urbaine,1130.6,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+35,13,4,19093,Urbaine,956.5,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+45,23,8,22176,Urbaine,1052.65,Petite rayure sur la portière conducteur.,Faible
+59,41,10,29273,Rurale,977.46,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+39,18,6,33116,Urbaine,1128.92,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+38,17,4,18493,Suburbaine,809.21,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+23,1,12,31038,Urbaine,1354.84,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+18,0,8,23447,Suburbaine,1097.61,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+22,3,4,33431,Urbaine,1270.15,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+58,38,12,20908,Suburbaine,978.63,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+29,10,12,32336,Suburbaine,1262.7,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+43,21,10,11224,Rurale,660.67,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+63,44,10,25582,Urbaine,1079.14,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+51,30,10,7025,Urbaine,821.95,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+66,48,4,21950,Urbaine,869.87,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+31,13,4,22187,Rurale,922.48,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+43,21,8,31472,Suburbaine,1122.34,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+62,41,10,23093,Suburbaine,1029.13,"Choc frontal avec un camion, moteur déplacé et châssis déformé.",Élevée
+44,24,12,9155,Urbaine,754.76,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+26,5,6,16839,Urbaine,954.08,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+43,25,8,3719,Urbaine,621.54,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,46,4,17890,Rurale,619.04,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+39,18,8,25900,Suburbaine,1045.93,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+64,43,8,23963,Rurale,921.73,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+47,29,8,20356,Urbaine,940.87,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+60,40,8,23102,Suburbaine,862.09,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+65,43,6,26779,Suburbaine,965.99,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+34,12,10,34342,Urbaine,1314.47,Petite rayure sur la portière conducteur.,Faible
+43,22,12,23786,Rurale,997.14,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+53,31,8,23936,Rurale,940.2,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+18,0,8,21591,Rurale,912.85,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+25,7,8,7426,Suburbaine,786.3,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+66,45,10,26303,Urbaine,1105.27,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+52,31,4,15512,Urbaine,798.92,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+69,48,4,30606,Rurale,853.54,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+32,12,6,18064,Urbaine,924.15,Petite rayure sur la portière conducteur.,Faible
+64,42,4,31151,Suburbaine,1013.2,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+39,18,8,16767,Suburbaine,900.36,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+31,12,8,14308,Suburbaine,842.28,Incendie complet du véhicule suite à une fuite de carburant.,Élevée
+43,24,8,14477,Rurale,664.57,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+45,27,6,32754,Urbaine,1213.69,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+40,18,8,28219,Urbaine,1187.96,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
+31,10,4,15903,Urbaine,942.46,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+41,22,10,27770,Urbaine,1217.78,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+19,0,10,31572,Urbaine,1331.48,Petite rayure sur la portière conducteur.,Faible
+62,44,12,11680,Urbaine,842.6,Rétroviseur droit fissuré dans un parking de supermarché.,Faible
+43,23,4,5204,Rurale,497.5,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+31,9,8,30233,Rurale,1125.14,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+68,46,10,24729,Urbaine,991.94,"Choc à basse vitesse à un feu rouge, capot tordu.",Moyenne
+24,4,4,34131,Urbaine,1227.15,Petite rayure sur la portière conducteur.,Faible
+20,0,10,22660,Rurale,924.57,Un léger impact sur le pare-chocs avant lors d'un créneau.,Faible
+64,46,8,4102,Urbaine,643.0,"Glissade sous la pluie, choc contre la bordure avec train avant abîmé.",Moyenne
+40,22,10,8243,Urbaine,846.37,Petite rayure sur la portière conducteur.,Faible
+63,43,12,9614,Urbaine,766.43,"Collision frontale violente sur l'autoroute, airbags déclenchés.",Élevée
+60,39,12,19299,Suburbaine,801.46,"Refus de priorité, porte latérale fortement bosselée.",Moyenne
+64,45,10,28817,Urbaine,1127.73,Petite rayure sur la portière conducteur.,Faible
+62,41,4,11707,Rurale,615.81,"Tonneau suite à une perte de contrôle, véhicule totalement détruit.",Élevée
+35,13,4,16913,Urbaine,905.14,"Accident à un croisement, aile droite et phare enfoncés.",Moyenne
+55,36,4,24607,Suburbaine,938.55,Impact de gravillon sur le pare-brise sans fissure majeure.,Faible
