@@ -31,7 +31,6 @@ st.markdown("---")
 
 # Navigation par onglets
 tab1, tab2 = st.tabs(["💰 Tarification de Prime", "📑 Analyse de Sinistre (NLP)"])
-
 # O N G L E T 1 : TARIFICATION TABULAIRE
 with tab1:
     st.header("Simulation de Prime d'Assurance Automobile")
@@ -40,24 +39,24 @@ with tab1:
 
     with col1:
         age_conducteur = st.slider("Âge du conducteur", 18, 85, 30)
-        anciennete_permis = st.slider("Ancienneté du permis (années)", 0, 50, 5)
+        experience_permis = st.slider("Ancienneté du permis (années)", 0, 50, 5)
         bonus_malus = st.slider("Coefficient Bonus/Malus", 0.50, 3.50, 1.00, step=0.05)
 
     with col2:
         valeur_vehicule = st.number_input("Valeur estimée du véhicule (€)", min_value=1000, max_value=150000,
                                           value=15000)
-        puissance_fiscale = st.number_input("Puissance fiscale (CV)", min_value=3, max_value=30, value=6)
-        region = st.selectbox("Région de résidence",
-                              ["Île-de-France", "PACA", "Auvergne-Rhône-Alpes", "Nouvelle-Aquitaine", "Autre"])
+        puissance_vehicule = st.number_input("Puissance fiscale (CV)", min_value=3, max_value=30, value=6)
+        zone_risque = st.selectbox("Région de résidence",
+                                   ["Île-de-France", "PACA", "Auvergne-Rhône-Alpes", "Nouvelle-Aquitaine", "Autre"])
 
     if st.button("Calculer la Prime Estimée"):
         input_data = pd.DataFrame([{
             'age_conducteur': age_conducteur,
-            'anciennete_permis': anciennete_permis,
+            'experience_permis': experience_permis,
             'bonus_malus': bonus_malus,
             'valeur_vehicule': valeur_vehicule,
-            'puissance_fiscale': puissance_fiscale,
-            'region': region
+            'puissance_vehicule': puissance_vehicule,
+            'zone_risque': zone_risque
         }])
 
         prediction = pricing_model.predict(input_data)[0]
