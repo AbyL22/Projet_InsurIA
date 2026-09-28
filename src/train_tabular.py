@@ -11,17 +11,20 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 
 def train_pricing_model():
-    data_path = "data/insurance_claims_dataset.csv"
+    # 1. Utilisation du nouveau fichier généré pour le Sénégal
+    data_path = "data/donnees_tarification.csv"
     if not os.path.exists(data_path):
         raise FileNotFoundError("Le fichier de données n'existe pas. Exécutez d'abord data_generator.py")
 
     df = pd.read_csv(data_path)
 
-    X = df[['age_conducteur', 'experience_permis', 'puissance_vehicule', 'valeur_vehicule', 'zone_risque']]
-    y = df['prime_estimee']
+    # 2. Sélection des nouvelles colonnes
+    X = df[['age_conducteur', 'experience_permis', 'puissance_vehicule', 'ville', 'zone_risque', 'type_vehicule']]
+    y = df['prime_annuelle_fcfa']
 
-    num_features = ['age_conducteur', 'experience_permis', 'puissance_vehicule', 'valeur_vehicule']
-    cat_features = ['zone_risque']
+    # Séparation des variables numériques et catégorielles
+    num_features = ['age_conducteur', 'experience_permis', 'puissance_vehicule']
+    cat_features = ['ville', 'zone_risque', 'type_vehicule']
 
     preprocessor = ColumnTransformer(
         transformers=[
@@ -44,7 +47,8 @@ def train_pricing_model():
     r2 = r2_score(y_test, predictions)
 
     print(f"✅ Entraînement du modèle terminé !")
-    print(f"📊 RMSE : {rmse:.2f} €")
+    # 3. Affichage en FCFA
+    print(f"📊 RMSE : {rmse:.2f} FCFA")
     print(f"📊 R² Score : {r2:.4f}")
 
     os.makedirs("models", exist_ok=True)
