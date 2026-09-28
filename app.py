@@ -116,7 +116,7 @@ with tab2:
     with col_ex2:
         if st.button("🟠 Exemple 2 (Moyenne)"):
             st.session_state[
-                "texte_sinistre"] = "Collision latérale avec un taxi au rond-point VDN. Portière enfoncée et rétroviseur cassé, aucun blessé."
+                "texte_sinistre"] = "Choc latéral avec un car rapide. La portière droite et l'aile sont fortement enfoncées, la voiture doit être remorquée mais aucun passager n'est blessé."
 
     with col_ex3:
         if st.button("🔴 Exemple 3 (Élevée)"):
