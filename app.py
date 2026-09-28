@@ -99,9 +99,34 @@ with tab1:
 # ---------------------------------------------------------
 with tab2:
     st.header("Évaluation de la Gravité d'un Sinistre par NLP")
+    st.markdown("Saisissez une description ou cliquez sur un exemple ci-dessous pour tester le modèle :")
 
+    # Initialisation de la variable de session si elle n'existe pas
+    if "texte_sinistre" not in st.session_state:
+        st.session_state["texte_sinistre"] = ""
+
+    # Boutons d'exemples pré-remplis
+    col_ex1, col_ex2, col_ex3 = st.columns(3)
+
+    with col_ex1:
+        if st.button("🟢 Exemple 1 (Faible)"):
+            st.session_state[
+                "texte_sinistre"] = "Léger accrochage sur le pare-chocs arrière par une moto Jakarta. Simple rayure sur la peinture."
+
+    with col_ex2:
+        if st.button("🟠 Exemple 2 (Moyenne)"):
+            st.session_state[
+                "texte_sinistre"] = "Collision latérale avec un taxi au rond-point VDN. Portière enfoncée et rétroviseur cassé, aucun blessé."
+
+    with col_ex3:
+        if st.button("🔴 Exemple 3 (Élevée)"):
+            st.session_state[
+                "texte_sinistre"] = "Choc frontal violent avec un camion sur l'autoroute à péage. Véhicule totalement détruit et intervention des secours."
+
+    # Zone de texte liée à la session state
     description = st.text_area(
         "Description textuelle du sinistre par l'assuré :",
+        value=st.session_state["texte_sinistre"],
         height=120,
         placeholder="Exemple : Retro frotté par une moto Jakarta au niveau du rond-point VDN dans les embouteillages."
     )
